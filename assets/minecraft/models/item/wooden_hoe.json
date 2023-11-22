@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_hoe"
+  },
+  "overrides": [
+    { "predicate": { "damage": 0.923 }, "model": "idrpack:item/wooden_hoe_soft_warning" },
+    { "predicate": { "damage": 0.9615 }, "model": "idrpack:item/wooden_hoe_warning" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "idrpack:item/golden_hoe_soft_warning"
+  },
+  "display": {
+    "firstperson_lefthand": {
+      "rotation": [0, 112.5, -25],
+      "translation": [1.13, 3.2, -0.87],
+      "scale": [1.5, 1.5, 1.5]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -67.5, 25],
+      "translation": [1.13, 3.2, -0.87],
+      "scale": [1.5, 1.5, 1.5]
+    }
+  }
+}

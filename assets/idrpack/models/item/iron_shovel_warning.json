@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "idrpack:item/iron_shovel_warning"
+  },
+  "display": {
+    "firstperson_lefthand": {
+      "rotation": [0, 135, -25],
+      "translation": [1.13, 3.2, -3.87],
+      "scale": [4, 4, 4]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -45, 25],
+      "translation": [1.13, 3.2, -3.87],
+      "scale": [4, 4, 4]
+    }
+  }
+}

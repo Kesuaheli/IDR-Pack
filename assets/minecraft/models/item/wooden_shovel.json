@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_shovel"
+  },
+  "overrides": [
+    { "predicate": { "damage": 0.923 }, "model": "idrpack:item/wooden_shovel_soft_warning" },
+    { "predicate": { "damage": 0.9615 }, "model": "idrpack:item/wooden_shovel_warning" }
+  ]
+}
